@@ -1,0 +1,27 @@
+.flex_all-center{
+    text-align: center;
+    color: aliceblue;
+}
+.btn{
+    color: blue;
+    background-color: white;
+    width: 75px;
+    height: 25px;
+    font-weight: bolder;
+    border-radius: 9px;
+    margin-left: 12px;
+    cursor: pointer;
+   
+}
+.my-1{
+    margin-left:5px;
+}
+.my-2{
+    margin-left:5px;
+}
+.my-3{
+margin-top: 12px;
+}
+text-center{
+    text-align: center;
+}

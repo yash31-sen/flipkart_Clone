@@ -1,0 +1,31 @@
+@media only screen and (max-width: 1000px){
+    body{
+        width: ;
+    }
+    .slider img {
+        width: 87vw;
+    }
+    .offershow .gift  img,.grocery img,.mobile  img,.fashion img,.electronics img,.home img,.aplliances img{
+        width: 7vw;
+    }
+    .offershow .gift  p,.grocery p,.mobile  p,.fashion p,.electronics p,.home p,.aplliances p{
+        font-size: 2vh;
+        padding: .2vh;
+    }
+    .card h2{
+        font-size: 3.611vw;
+        line-height: 0;
+        font-style: normal;
+        font-weight: 700;
+    }
+    footer{
+        width: 100vw;
+    }
+    .logo{
+        
+            line-height: 0px;
+                margin-left: 10px;
+                margin-top: 9px;
+        
+    }
+}
